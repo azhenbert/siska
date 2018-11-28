@@ -1,0 +1,8 @@
++20 tgs selesai
++10 tiap kolom tabel
++25 link detail Mahasiswa
++25 pilihan prodi non-button
++15 penerapan style pd elemen input
++75 setiap API yg digunakan
++25 penggunaan modals
++25 search external datatables
